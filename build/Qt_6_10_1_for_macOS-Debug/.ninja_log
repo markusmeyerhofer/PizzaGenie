@@ -1,0 +1,9 @@
+# ninja log v6
+1	200	1773237918338667862	PizzaGenie_autogen/timestamp	662214e6d75aa067
+1	200	1773237918338667862	PizzaGenie_autogen/mocs_compilation.cpp	662214e6d75aa067
+1	200	1773237918338667862	/Users/max/Development/PizzaGenie/build/Qt_6_10_1_for_macOS-Debug/PizzaGenie_autogen/timestamp	662214e6d75aa067
+1	200	1773237918338667862	/Users/max/Development/PizzaGenie/build/Qt_6_10_1_for_macOS-Debug/PizzaGenie_autogen/mocs_compilation.cpp	662214e6d75aa067
+201	769	1773237918347967661	CMakeFiles/PizzaGenie.dir/PizzaGenie_autogen/mocs_compilation.cpp.o	ef56247f6ea81a82
+201	774	1773237918348117035	CMakeFiles/PizzaGenie.dir/main.cpp.o	d27f060b8d7801b5
+201	830	1773237918348214868	CMakeFiles/PizzaGenie.dir/pizzagenie.cpp.o	e5668c2ff2235bfc
+830	906	1773237918976381493	PizzaGenie.app/Contents/MacOS/PizzaGenie	d15d11c77f31e465
